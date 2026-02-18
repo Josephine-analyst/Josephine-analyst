@@ -1,4 +1,4 @@
-![Profile Banner](profile-banner.png)
+![Profile Banner](1755009287930)
 # Hi, I'm Josephine 👋
 
 Aspiring **Data Analyst** based in Lagos, Nigeria. I turn raw data into actionable business decisions using Power BI dashboards, SQL queries, Excel analysis, and strong storytelling. Passionate about healthcare, customer experience, sales, finance, and public sector insights. Currently targeting entry-level analyst roles in Lagos (fintech, consulting, health-tech, NGOs) or remote opportunities.
